@@ -1,4 +1,3 @@
-![ekf](https://github.com/JinXiangLai/EKF-SLAM/assets/62703436/688bd27c-979c-4b54-b479-b1b43397d837)# EKF-SLAM
 The realizaton of traditional ekf slam
 
 # The predict result
